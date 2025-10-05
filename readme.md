@@ -1,4 +1,4 @@
-### Implementing my learning on GraphQL by implementing it inside a project
+### Implementing my learning on GraphQL by making a simple project (Users & Posts)
 
 * GraphQL is generally used to preven overfecting and Underfetching of data that is common in REST API's
 * GraphQL helps in increasing the API performance and flexibility
