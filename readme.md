@@ -1,6 +1,6 @@
 ### Implementing my learning on GraphQL by implementing it inside a project
 
-GraphQL is generally used to preven overfecting and Underfetching of data that is common in REST API's
+* GraphQL is generally used to preven overfecting and Underfetching of data that is common in REST API's
 GraphQL helps in increasing the API performance and flexibility
 
 ## Working of Final GraphQL queries to Create and Fetch Data
